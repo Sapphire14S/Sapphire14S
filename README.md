@@ -3,6 +3,7 @@
 I'm Shivank Kumar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Cipher14S&label=Profile%20Views&color=0e75b6&style=flat)
 <!--
 **Cipher14S/Cipher14S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
